@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758862208482",
+    "project_id": "seventh-ave",
+    "storage_bucket": "seventh-ave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758862208482:android:6ce88c8af4d34190d5adbb",
+        "android_client_info": {
+          "package_name": "com.pulluponseventh.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758862208482-lhtv00h2f97i6tjtbe5hhecrvtt632o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-9d-H9EeUOZqiMR5FV1P0TpUte2ZeJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758862208482-lhtv00h2f97i6tjtbe5hhecrvtt632o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

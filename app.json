@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Seventh Ave",
+    "slug": "seventh-ave",
+    "description": "",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "seventh-ave",
+    "splash": {
+      "image": "./assets/brand/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "requireFullScreen": true,
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "This app uses FaceID as an option to authorize the user."
+      },
+      "bundleIdentifier": "com.pulluponseventh.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.pulluponseventh.mobile"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
